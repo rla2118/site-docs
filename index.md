@@ -18,6 +18,7 @@ DCLP aggregates material from the [Leuven Database of Ancient Documents](http://
       <li><a href="http://www.ulb.ac.be/philo/cpeg/bp.htm" title="learn about the Bibliographie Papyrologique">BP</a></li>
       <li><a href="http://www.trismegistos.org/" title="learn about the Trismegistos project">Trismegistos</a></li>
       <li><a href="http://www.ori.uzh.ch/apd" title="learn about the Arabic Papyrological Database">APD</a></li>
+      <li><a href="http://kallimachos.de/kallimachos/index.php/Anagnosis:Main" title="learn about the Anagnosis project">Anagnosis</a></li>
     </ul></td>
     <td width="50%" valign="top" style="padding-left:2em;padding-right:10em;"><h2>More information</h2>
     <ul class="about">
